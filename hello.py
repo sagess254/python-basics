@@ -1,0 +1,7 @@
+print("Hello Felicia, welcome to the the python world")
+print(77)
+print("Joy")
+print("81")
+print(10.5)
+# print("My name", "is", "88", "gsghs", 65)
+print(10*4+5-8/3)
