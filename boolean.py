@@ -1,4 +1,5 @@
-# True False
+# True False  
+# booleans
 
 print(10>20)
 print(10==10.0)
