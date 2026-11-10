@@ -10,6 +10,7 @@ video_url = "https://www.youtube.com/watch?v=qa09d1ioU3E"
 ydl_opts = {
 
 "format": "bestaudio/best",
+'ffmpeg_location': r'C:\ffmpeg\bin',
 
 "postprocessors": [
 
